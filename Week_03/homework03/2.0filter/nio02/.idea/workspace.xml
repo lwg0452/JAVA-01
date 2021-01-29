@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f2b2daa9-fbbe-46aa-8d9d-c7f9a98a05af" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../nio01/src/main/java/java0/nio01/netty/OkHttpUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework03/BackendServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework03/OkHttpUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nio01/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../nio01/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nio01/src/main/java/java0/nio01/HttpServer01.java" beforeDir="false" afterPath="$PROJECT_DIR$/../nio01/src/main/java/java0/nio01/HttpServer01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nio01/src/main/java/java0/nio01/HttpServer02.java" beforeDir="false" afterPath="$PROJECT_DIR$/../nio01/src/main/java/java0/nio01/HttpServer02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nio01/src/main/java/java0/nio01/HttpServer03.java" beforeDir="false" afterPath="$PROJECT_DIR$/../nio01/src/main/java/java0/nio01/HttpServer03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nio01/src/main/java/java0/nio01/netty/HttpHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../nio01/src/main/java/java0/nio01/netty/HttpHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/github/kimmking/gateway/NettyServerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/kimmking/gateway/NettyServerApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/github/kimmking/gateway/filter/HeaderHttpRequestFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/github/kimmking/gateway/filter/HeaderHttpResponseFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/github/kimmking/gateway/filter/HttpRequestFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/kimmking/gateway/filter/HttpRequestFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/github/kimmking/gateway/filter/HttpResponseFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/kimmking/gateway/filter/HttpResponseFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/github/kimmking/gateway/inbound/HttpInboundHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/kimmking/gateway/inbound/HttpInboundHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/github/kimmking/gateway/inbound/HttpInboundInitializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/kimmking/gateway/inbound/HttpInboundInitializer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/github/kimmking/gateway/inbound/HttpInboundServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/kimmking/gateway/inbound/HttpInboundServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/github/kimmking/gateway/outbound/httpclient4/HttpOutboundHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/github/kimmking/gateway/outbound/httpclient4/NamedThreadFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/github/kimmking/gateway/outbound/netty4/NettyHttpClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/github/kimmking/gateway/outbound/netty4/NettyHttpClientOutboundHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/github/kimmking/gateway/outbound/okhttp/OkhttpOutboundHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/kimmking/gateway/outbound/okhttp/OkhttpOutboundHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/github/kimmking/gateway/router/HttpEndpointRouter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/github/kimmking/gateway/router/RandomHttpEndpointRouter.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1nNrEEJJSNTbtTo4zKthsQqwalV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../http_server" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\lwg04\IdeaProjects\JavaCourse\JavaCourseCodes\02nio\nio02\src\main\java\homework03" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="io.github.kimmking.gateway" />
+      <recent name="io.github.kimmking.gateway.outbound.okhttp" />
+      <recent name="io.github.kimmking.gateway.filter" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.NettyServerApplication">
+    <configuration name="BackendServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework03.BackendServer" />
+      <module name="nio02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NettyServerApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.github.kimmking.gateway.NettyServerApplication" />
+      <module name="nio02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.github.kimmking.gateway.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OkHttpUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework03.OkHttpUtils" />
+      <module name="nio02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.NettyServerApplication" />
+        <item itemvalue="Application.BackendServer" />
+        <item itemvalue="Application.OkHttpUtils" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f2b2daa9-fbbe-46aa-8d9d-c7f9a98a05af" name="Default Changelist" comment="" />
+      <created>1611241276189</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611241276189</updated>
+      <workItem from="1611241278377" duration="20000" />
+      <workItem from="1611241313023" duration="349000" />
+      <workItem from="1611642896820" duration="766000" />
+      <workItem from="1611643754982" duration="2345000" />
+      <workItem from="1611714128186" duration="4469000" />
+      <workItem from="1611727220722" duration="1762000" />
+      <workItem from="1611745891389" duration="785000" />
+      <workItem from="1611747129806" duration="1356000" />
+      <workItem from="1611798944238" duration="5548000" />
+      <workItem from="1611820121509" duration="4585000" />
+      <workItem from="1611843481028" duration="4615000" />
+      <workItem from="1611879023287" duration="6368000" />
+      <workItem from="1611931709330" duration="1482000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
